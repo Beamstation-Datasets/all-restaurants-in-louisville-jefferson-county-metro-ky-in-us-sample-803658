@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3046d211-c503-4d38-adba-9b5fb2842b6e",
+  "export_job_id": "a675ae7f-3bd7-42b6-b5f2-14c149be89a2",
   "id_short": 803658,
-  "published_at": "2026-04-15T07:21:35Z",
+  "published_at": "2026-04-18T07:05:07Z",
   "repo_name": "all-restaurants-in-louisville-jefferson-county-metro-ky-in-us-sample-803658",
   "sample_asset_name": "beamstation_803658_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/803658/beamstation_803658_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
   "sample_records": 283,
   "sample_sha256": "3cb034bec2605f9dad45b4863e328a8d2686da788002f712e86ce1144c889c1a",
   "sample_size_bytes": 1037542,
-  "total_records": 2548
+  "total_records": 2831
 }
