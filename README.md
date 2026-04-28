@@ -1,6 +1,6 @@
 # All Restaurants in Louisville/Jefferson County (Metro), KY-IN, US
 
-> Free BeamStation sample export with 293 rows and masked direct-contact fields.
+> Free BeamStation sample export with 272 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `803658` |
 | Location | Louisville/Jefferson County, KY-IN |
 | Category | Restaurants |
-| Full dataset size | 2,932 records |
-| Free sample size | 293 records (9.99%) |
-| Last export | 2026-04-21T14:09:21.282397+00:00 |
+| Full dataset size | 2,728 records |
+| Free sample size | 272 records (9.97%) |
+| Last export | 2026-04-28T15:16:54.288812+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-louisville-jefferson-county-metro-ky-in-us-sample-803658/releases/download/sample-latest/beamstation_803658_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
