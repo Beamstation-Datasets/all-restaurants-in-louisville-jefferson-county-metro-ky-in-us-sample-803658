@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete restaurant data for the Louisville/Jefferson County metro spanning Kentucky and Indiana. Covers the Derby City's culinary scene, filtered by the Restaurants category group. Includes business profiles, ratings, review trends, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Louisville/Jefferson County (Metro), KY-IN, US",
-  "export_job_id": "529c314c-264a-4eaa-8edb-65125000797e",
+  "export_job_id": "ff1cf40e-89c9-462a-bf3e-15702c1b78b1",
   "github_org": "Beamstation-Datasets",
   "id_short": 803658,
   "location_name": "Louisville/Jefferson County, KY-IN",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-louisville-jefferson-county-metro-ky-in-us-sample-803658",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/803658/beamstation_803658_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
   "sample_pct": 9.97,
-  "sample_records": 272,
-  "sample_sha256": "fb90bc707e2269047489c7a251a60e29ef67b14320cbab768c2bf6d2cb1589d5",
-  "sample_size_bytes": 895745,
-  "total_records": 2728,
-  "updated_at": "2026-04-28T15:16:54.288812+00:00"
+  "sample_records": 320,
+  "sample_sha256": "2a3b9a0f85c0f4077cf140aa31b332e3ce696a0943b223619d6e65847e21ce5f",
+  "sample_size_bytes": 1077295,
+  "total_records": 3209,
+  "updated_at": "2026-05-06T07:52:24.417606+00:00"
 }
